@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_DTEL" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <DD04V>
+    <ROLLNAME>ZJJRGZB</ROLLNAME>
+    <DDLANGUAGE>1</DDLANGUAGE>
+    <SCRLEN1>10</SCRLEN1>
+    <SCRLEN2>12</SCRLEN2>
+    <SCRLEN3>12</SCRLEN3>
+    <DDTEXT>间接人工占比</DDTEXT>
+    <SCRTEXT_S>间接人工占比</SCRTEXT_S>
+    <SCRTEXT_M>间接人工占比</SCRTEXT_M>
+    <SCRTEXT_L>间接人工占比</SCRTEXT_L>
+    <DTELMASTER>1</DTELMASTER>
+    <DATATYPE>DEC</DATATYPE>
+    <LENG>000009</LENG>
+    <DECIMALS>000005</DECIMALS>
+    <OUTPUTLEN>000011</OUTPUTLEN>
+   </DD04V>
+  </asx:values>
+ </asx:abap>
+</abapGit>
